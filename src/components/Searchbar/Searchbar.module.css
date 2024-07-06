@@ -2,7 +2,7 @@
 .searchbar {
   display: flex;
   justify-content: center;
-  background-color: rgb(233, 85, 22);
+  background-color: rgba(22, 149, 233, 0.877);
   height: 60px;
 }
 
